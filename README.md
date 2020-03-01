@@ -4,7 +4,7 @@
 
 # 获取代码
 ```bash
-git clone 仓库.get
+git clone https://github.com/HHardyy/eazy-page.git
 ```
 
 # 运行
